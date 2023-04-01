@@ -1,1 +1,1 @@
-from pospider.api.weibo import *
+from pospider.api.weibo import weibo
